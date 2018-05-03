@@ -1,0 +1,18 @@
+.contactTable {
+
+
+}
+
+td {
+    font-size: $s-size;
+    padding: $s-size;
+    font-family: Helvetica, sans-serif
+}
+tr:first-child {
+    color: red;
+    text-align: center;
+}
+
+th {
+    text-align: left;
+}

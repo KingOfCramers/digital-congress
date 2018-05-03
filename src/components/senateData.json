@@ -1,0 +1,1681 @@
+[
+  {
+   "Senator": "Senator",
+   "First": "First",
+   "Last": "Last",
+   "Office": "Office",
+   "Cell": "Cell",
+   "Email": "Email",
+   "Title": "Title",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Alexander",
+   "First": "Ashton",
+   "Last": "Davies",
+   "Office": "202-224-715",
+   "Cell": "202-436-446",
+   "Email": "Ashton_Davies@alexander.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Alexander",
+   "First": "Taylor",
+   "Last": "Haulsee",
+   "Office": "202-224-881",
+   "Cell": "910-315-889",
+   "Email": "Taylor_Haulsee@alexander.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Baldwin",
+   "First": "John",
+   "Last": "Kraus",
+   "Office": "202-224-622",
+   "Cell": "",
+   "Email": "press@baldwin.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Baldwin",
+   "First": "Kasey",
+   "Last": "Hampton",
+   "Office": "202-224-622",
+   "Cell": "",
+   "Email": "kasey_hampton@baldwin.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Baldwin",
+   "First": "Jonathan",
+   "Last": "Fera",
+   "Office": "202-224-622",
+   "Cell": "",
+   "Email": "jonathan_fera@baldwin.senate.gov",
+   "Title": "(DPS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Barrasso",
+   "First": "Bronwyn",
+   "Last": "Chester",
+   "Office": "202-224-085",
+   "Cell": "",
+   "Email": "Press@barrasso.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Barrasso",
+   "First": "Laura",
+   "Last": "Mengelkamp",
+   "Office": "202-224-085",
+   "Cell": "",
+   "Email": "Press@barrasso.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Bennet",
+   "First": "Samantha",
+   "Last": "Slater",
+   "Office": "202-228-590",
+   "Cell": "",
+   "Email": "Samantha_Slater@bennet.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Bennet",
+   "First": "Shannon",
+   "Last": "Beckham",
+   "Office": "202-228-543",
+   "Cell": "",
+   "Email": "Shannon_Beckham@bennet.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Blumenthal",
+   "First": "Amelia",
+   "Last": "Penniman",
+   "Office": "202-224-282",
+   "Cell": "",
+   "Email": "Amelia_Penniman@blumenthal.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Blunt",
+   "First": "Katie",
+   "Last": "Boyd",
+   "Office": "202-224-140",
+   "Cell": "",
+   "Email": "Katie_Boyd@blunt.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Blunt",
+   "First": "Tate",
+   "Last": "O'Connor",
+   "Office": "202-224-140",
+   "Cell": "",
+   "Email": "Tate_Oconnor@blunt.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Booker",
+   "First": "Kristin",
+   "Last": "Lynch",
+   "Office": "202-224-434",
+   "Cell": "",
+   "Email": "kristin_lynch@booker.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Booker",
+   "First": "Tom",
+   "Last": "Pietrykoski",
+   "Office": "973-639-8700",
+   "Cell": "",
+   "Email": "Thomas_Pietrykoski@booker.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Boozman",
+   "First": "Sara",
+   "Last": "Lasure",
+   "Office": "202-224-484",
+   "Cell": "",
+   "Email": "Sara_lasure@boozman.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Boozman",
+   "First": "Patrick",
+   "Last": "Creamer",
+   "Office": "202-224-484",
+   "Cell": "202-701-643",
+   "Email": "patrick_creamer@boozman.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Brown",
+   "First": "Jennifer",
+   "Last": "Donohue",
+   "Office": "202-224-397",
+   "Cell": "",
+   "Email": "Jennifer_Donohue@brown.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Brown",
+   "First": "Rachel",
+   "Last": "Petri",
+   "Office": "202-224-117",
+   "Cell": "",
+   "Email": "Rachel_Petri@Brown.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Burr",
+   "First": "Rebecca",
+   "Last": "Watkins",
+   "Office": "202-228-161",
+   "Cell": "202-695-5000",
+   "Email": "Rebecca_Watkins@burr.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Burr",
+   "First": "Ben",
+   "Last": "Khouri",
+   "Office": "202-228-161",
+   "Cell": "",
+   "Email": "Ben_Khouri@burr.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cantwell",
+   "First": "Reid",
+   "Last": "Walker",
+   "Office": "202-224-827",
+   "Cell": "202-340-6390",
+   "Email": "reid_walker@cantwell.senate.gov)",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cantwell",
+   "First": "Bryan",
+   "Last": "Watt",
+   "Office": "202-224-827",
+   "Cell": "",
+   "Email": "Bryan_Watt@cantwell.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Capito",
+   "First": "Tyler",
+   "Last": "Hernandez",
+   "Office": "202-228-140",
+   "Cell": "",
+   "Email": "Tyler_Hernandez@capito.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Capito",
+   "First": "Kelley",
+   "Last": "Moore",
+   "Office": "202-228-146",
+   "Cell": "",
+   "Email": "Kelley_Moore@capito.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cardin",
+   "First": "Sue",
+   "Last": "Walitsky",
+   "Office": "202-224-452",
+   "Cell": "202-320-081",
+   "Email": "sue_walitsky@cardin.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cardin",
+   "First": "Tim",
+   "Last": "Zink",
+   "Office": "410-962-447",
+   "Cell": "202-507-276",
+   "Email": "tim_zink@cardin.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Carper",
+   "First": "",
+   "Last": "",
+   "Office": "202-224-244",
+   "Cell": "",
+   "Email": "press_office@carper.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Carper",
+   "First": "",
+   "Last": "",
+   "Office": "202-224-244",
+   "Cell": "",
+   "Email": "press_office@carper.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Casey",
+   "First": "John",
+   "Last": "Rizzo",
+   "Office": "202-228-632",
+   "Cell": "",
+   "Email": "John_Rizzo@casey.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Casey",
+   "First": "Jacklin",
+   "Last": "Rhoads",
+   "Office": "202-228-636",
+   "Cell": "202-384-898",
+   "Email": "Jacklin_Rhoads@casey.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cassidy",
+   "First": "Matt",
+   "Last": "Wolking",
+   "Office": "202-224-582",
+   "Cell": "",
+   "Email": "Matt_Wolking@cassidy.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cassidy",
+   "First": "Ty",
+   "Last": "Bofferding",
+   "Office": "202-224-582",
+   "Cell": "",
+   "Email": "Ty_Bofferding@Cassidy.Senate.Gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cochran",
+   "First": "Chris",
+   "Last": "Gallegos",
+   "Office": "202-224-641",
+   "Cell": "",
+   "Email": "chris_gallegos@cochran.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Collins",
+   "First": "Annie",
+   "Last": "Clark",
+   "Office": "202-224-252",
+   "Cell": "",
+   "Email": "annie_clark@collins.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Collins",
+   "First": "Christopher",
+   "Last": "Knight",
+   "Office": "202-224-252",
+   "Cell": "",
+   "Email": "Christopher_Knight@collins.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Coons",
+   "First": "Sean",
+   "Last": "Coit",
+   "Office": "202-224-504",
+   "Cell": "",
+   "Email": "Sean_Coit@coons.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Corker",
+   "First": "Micah",
+   "Last": "Johnson",
+   "Office": "202-228-652",
+   "Cell": "",
+   "Email": "micah_johnson@corker.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Corker",
+   "First": "Josh",
+   "Last": "Falzone",
+   "Office": "202-224-346",
+   "Cell": "",
+   "Email": "josh_falzone@corker.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cornyn",
+   "First": "Drew",
+   "Last": "Brandewie",
+   "Office": "202-224-070",
+   "Cell": "",
+   "Email": "Drew_Brandewie@cornyn.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cornyn",
+   "First": "Ryann",
+   "Last": "DuRant",
+   "Office": "202-224-070",
+   "Cell": "",
+   "Email": "Ryann_DuRant@cornyn.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cornyn",
+   "First": "Natalie",
+   "Last": "Yezbick",
+   "Office": "202-224-070",
+   "Cell": "",
+   "Email": "Natalie_Yezbick@cornyn.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cortez Masto",
+   "First": "Rey",
+   "Last": "Benitez",
+   "Office": "202-224-596",
+   "Cell": "",
+   "Email": "Reynaldo_Benitez@cortezmasto.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cortez Masto",
+   "First": "Ryan",
+   "Last": "King",
+   "Office": "202-224-596",
+   "Cell": "",
+   "Email": "Ryan_King@cortezmasto.senate.gov",
+   "Title": "(DCD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cortez Masto",
+   "First": "Bianca",
+   "Last": "Recto",
+   "Office": "202-224-596",
+   "Cell": "",
+   "Email": "Bianca_Recto@cortezmasto.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cotton",
+   "First": "Caroline",
+   "Last": "Tabler",
+   "Office": "202-224-603",
+   "Cell": "",
+   "Email": "Caroline_Tabler@Cotton.Senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Crapo",
+   "First": "Lindsay",
+   "Last": "Nothern",
+   "Office": "208-334-177",
+   "Cell": "",
+   "Email": "Lindsay_Nothern@crapo.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Crapo",
+   "First": "Robert",
+   "Last": "Sumner",
+   "Office": "202-224-5150",
+   "Cell": "",
+   "Email": "Robert_Sumner@crapo.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Crapo",
+   "First": "Melanie",
+   "Last": "Baucom",
+   "Office": "202-224-152",
+   "Cell": "",
+   "Email": "Melanie_Baucom@crapo.senate.gov",
+   "Title": "(DPS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Cruz",
+   "First": "Phil",
+   "Last": "Novack",
+   "Office": "202-228-756",
+   "Cell": "",
+   "Email": "Phil_Novack@cruz.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Daines",
+   "First": "Marcie",
+   "Last": "Kinzel",
+   "Office": "202-320-727",
+   "Cell": "",
+   "Email": "Marcie_Kinzel@daines.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Donnelly",
+   "First": "Sarah",
+   "Last": "Rothschild",
+   "Office": "202-224-097",
+   "Cell": "",
+   "Email": "Sarah_Rothschild@donnelly.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Donnelly",
+   "First": "Donnelly",
+   "Last": "Press",
+   "Office": "202-224-097",
+   "Cell": "",
+   "Email": "Donnelly_Press@Donnelly.Senate.Gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Donnelly",
+   "First": "Michael",
+   "Last": "Campbell",
+   "Office": "202-224-097",
+   "Cell": "",
+   "Email": "Michael_Campbell@Donnelly.Senate.Gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Duckworth",
+   "First": "Sean",
+   "Last": "Savett",
+   "Office": "202-224-285",
+   "Cell": "202-256-293",
+   "Email": "Sean_Savett@duckworth.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Duckworth",
+   "First": "Duckworth",
+   "Last": "Press",
+   "Office": "202-224-285",
+   "Cell": "",
+   "Email": "Press@Duckworth.Senate.Gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Durbin-(Whip)",
+   "First": "Ben",
+   "Last": "Marter",
+   "Office": "202-228-524",
+   "Cell": "",
+   "Email": "Ben_Marter@durbin.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Durbin-(Whip)",
+   "First": "Emily",
+   "Last": "Hampsten",
+   "Office": "202-228-564",
+   "Cell": "",
+   "Email": "Emily_Hampsten@durbin.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Durbin",
+   "First": "Joe",
+   "Last": "LaPaille",
+   "Office": "202-224-711",
+   "Cell": "",
+   "Email": "Joe_Lapaille@durbin.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Enzi",
+   "First": "Max",
+   "Last": "D’Onofrio",
+   "Office": "202-224-342",
+   "Cell": "",
+   "Email": "Max_Donofrio@enzi.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Ernst",
+   "First": "Brook",
+   "Last": "Hougesen",
+   "Office": "202-224-325",
+   "Cell": "",
+   "Email": "Brook_Hougesen@ernst.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Feinstein",
+   "First": "Tom",
+   "Last": "Mentzer",
+   "Office": "202-224-962",
+   "Cell": "",
+   "Email": "tom_mentzer@feinstein.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Feinstein",
+   "First": "Ashley",
+   "Last": "Schapitl",
+   "Office": "202-224-962",
+   "Cell": "",
+   "Email": "Ashley_Schapitl@feinstein.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Feinstein",
+   "First": "Adam",
+   "Last": "Russell",
+   "Office": "202-224-962",
+   "Cell": "",
+   "Email": "Adam_Russell@feinstein.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Fischer",
+   "First": "Brianna",
+   "Last": "Puccini",
+   "Office": "202-224-655",
+   "Cell": "202-430-109",
+   "Email": "Brianna_puccini@fischer.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Flake",
+   "First": "Liz",
+   "Last": "Jones",
+   "Office": "202-224-162",
+   "Cell": "",
+   "Email": "Elizabeth_jones@flake.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Gardner",
+   "First": "Alex",
+   "Last": "Siciliano",
+   "Office": "202-224-594",
+   "Cell": "",
+   "Email": "Alex_Siciliano@gardner.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Gillibrand",
+   "First": "Marc",
+   "Last": "Brumer",
+   "Office": "202-224-387",
+   "Cell": "",
+   "Email": "Marc_Brumer@gillibrand.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Gillibrand",
+   "First": "Whitney",
+   "Last": "Mitchell Brennan",
+   "Office": "202-224-387",
+   "Cell": "",
+   "Email": "Whitney_Brennan@gillibrand.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Graham",
+   "First": "Kevin",
+   "Last": "Bishop",
+   "Office": "864-250-141",
+   "Cell": "864-419-181",
+   "Email": "kevin_bishop@lgraham.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Graham",
+   "First": "Alice",
+   "Last": "James",
+   "Office": "202-224-597",
+   "Cell": "202-549-478",
+   "Email": "Alice_James@lgraham.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Graham",
+   "First": "Taylor",
+   "Last": "Reidy",
+   "Office": "202-224-597",
+   "Cell": "202-316-289",
+   "Email": "taylor_reidy@lgraham.senate.gov",
+   "Title": "(DCD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Grassley",
+   "First": "Nicole",
+   "Last": "Tieman",
+   "Office": "202-224-652",
+   "Cell": "",
+   "Email": "Nicole_Tieman@grassley.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Grassley",
+   "First": "Michael",
+   "Last": "Zona",
+   "Office": "202-224-047",
+   "Cell": "",
+   "Email": "Michael_Zona@grassley.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Grassley",
+   "First": "Mickey",
+   "Last": "Sundermann",
+   "Office": "202-224-048",
+   "Cell": "",
+   "Email": "mickey_sundermann@grassley.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Harris",
+   "First": "Lily",
+   "Last": "Adams",
+   "Office": "202-224-355",
+   "Cell": "",
+   "Email": "Lily_Adams@harris.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Harris",
+   "First": "Tyrone",
+   "Last": "Gayle",
+   "Office": "202-224-227",
+   "Cell": "202-897-621",
+   "Email": "Tyrone_Gayle@harris.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Hassan",
+   "First": "Aaron",
+   "Last": "Jacobs",
+   "Office": "202-228-058",
+   "Cell": "",
+   "Email": "Aaron_Jacobs@hassan.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Hassan",
+   "First": "Ricki",
+   "Last": "Eshman",
+   "Office": "202-228-104",
+   "Cell": "",
+   "Email": "Ricki_Eshman@hassan.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Hatch",
+   "First": "Matt",
+   "Last": "Whitlock",
+   "Office": "202-224-451",
+   "Cell": "",
+   "Email": "Matt_Whitlock@hatch.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Heinrich",
+   "First": "Whitney",
+   "Last": "Potter",
+   "Office": "202-228-157",
+   "Cell": "202-450-914",
+   "Email": "whitney_potter@Heinrich.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Heinrich",
+   "First": "Vanessa",
+   "Last": "Valdivia",
+   "Office": "202-228-157",
+   "Cell": "",
+   "Email": "Vanessa_Valdivia@heinrich.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Heitkamp",
+   "First": "Abbie",
+   "Last": "McDonough",
+   "Office": "202-224-889",
+   "Cell": "",
+   "Email": "Abigail_McDonough@heitkamp.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Heitkamp",
+   "First": "Ian",
+   "Last": "Jannetta",
+   "Office": "202-224-889",
+   "Cell": "",
+   "Email": "Ian_jannetta@heitkamp.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Heller",
+   "First": "Megan",
+   "Last": "Taylor",
+   "Office": "202-224-624",
+   "Cell": "",
+   "Email": "megan_taylor@heller.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Heller",
+   "First": "Gretchen",
+   "Last": "Andersen",
+   "Office": "202-224-624",
+   "Cell": "",
+   "Email": "Gretchen_Andersen@heller.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Hirono",
+   "First": "Will",
+   "Last": "Dempster",
+   "Office": "202-224-636",
+   "Cell": "",
+   "Email": "will_dempster@hirono.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Hirono",
+   "First": "Katie",
+   "Last": "Arita-Chang",
+   "Office": "202-224-636",
+   "Cell": "",
+   "Email": "Kaitlin_Arita-Chang@hirono.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Hoeven",
+   "First": "Kami",
+   "Last": "Capener",
+   "Office": "202-224-255",
+   "Cell": "",
+   "Email": "Kami_Capener@hoeven.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Inhofe",
+   "First": "Leacy",
+   "Last": "Burke",
+   "Office": "202-224-313",
+   "Cell": "",
+   "Email": "Leacy_Burke@inhofe.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Isakson",
+   "First": "Amanda",
+   "Last": "Maddox",
+   "Office": "202-224-777",
+   "Cell": "",
+   "Email": "Amanda_Maddox@isakson.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Isakson",
+   "First": "Marie",
+   "Last": "Gordon",
+   "Office": "770-661-099",
+   "Cell": "770-262-077",
+   "Email": "marie_gordon@isakson.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Johnson",
+   "First": "Ben",
+   "Last": "Voelkel",
+   "Office": "202-228-173",
+   "Cell": "",
+   "Email": "Ben_Voelkel@ronjohnson.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Johnson",
+   "First": "Patrick",
+   "Last": "McIlheran",
+   "Office": "202-228-695",
+   "Cell": "",
+   "Email": "Patrick_McIlheran@ronjohnson.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Jones",
+   "First": "Sam",
+   "Last": "Coleman",
+   "Office": "202-228-873",
+   "Cell": "",
+   "Email": "Sam_Coleman@jones.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Kaine",
+   "First": "Sarah",
+   "Last": "Peck",
+   "Office": "202-224-402",
+   "Cell": "",
+   "Email": "sarah_peck@kaine.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Kennedy",
+   "First": "Meredith",
+   "Last": "Jones",
+   "Office": "202-228-074",
+   "Cell": "",
+   "Email": "Meredith_Jones@kennedy.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "King",
+   "First": "Kathleen",
+   "Last": "Connery-Dawe",
+   "Office": "202-224-534",
+   "Cell": "202-230-874",
+   "Email": "Kathleen_Connery_Dawe@king.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Klobuchar",
+   "First": "Kate",
+   "Last": "Childs Graham",
+   "Office": "202-228-631",
+   "Cell": "",
+   "Email": "Kate_Childs_Graham@klobuchar.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Lankford",
+   "First": "Darrell",
+   "Last": "Jordan",
+   "Office": "202-224-575",
+   "Cell": "",
+   "Email": "darrell_jordan@lankford.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Leahy",
+   "First": "David",
+   "Last": "Carle",
+   "Office": "202-224-369",
+   "Cell": "202-306-4760",
+   "Email": "david_carle@leahy.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Leahy",
+   "First": "Lincoln",
+   "Last": "Peek",
+   "Office": "202-224-240",
+   "Cell": "202-573-466",
+   "Email": "Lincoln_Peek@leahy.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Lee",
+   "First": "Conn",
+   "Last": "Carroll",
+   "Office": "202-224-937",
+   "Cell": "",
+   "Email": "Conn_Carroll@lee.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Lee",
+   "First": "Jillian",
+   "Last": "Wheeler",
+   "Office": "202-224-361",
+   "Cell": "",
+   "Email": "Jillian_Wheeler@lee.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Manchin",
+   "First": "Jonathan",
+   "Last": "Kott",
+   "Office": "202-228-557",
+   "Cell": "202-256-801",
+   "Email": "Jonathan_Kott@manchin.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Markey",
+   "First": "Giselle",
+   "Last": "Barry",
+   "Office": "202-224-274",
+   "Cell": "202-642-092",
+   "Email": "Giselle_Barry@markey.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "McCain",
+   "First": "Julie",
+   "Last": "Tarallo",
+   "Office": "202-224-7130",
+   "Cell": "202-228-742",
+   "Email": "julie_tarallo@mccain.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "McCaskill",
+   "First": "John",
+   "Last": "Labombard",
+   "Office": "202-228-626",
+   "Cell": "",
+   "Email": "john_labombard@mccaskill.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "McCaskill",
+   "First": "Sarah",
+   "Last": "Feldman",
+   "Office": "202-228-626",
+   "Cell": "",
+   "Email": "Sarah_Feldman@mccaskill.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "McConnell",
+   "First": "David",
+   "Last": "Popp",
+   "Office": "202-228-767",
+   "Cell": "",
+   "Email": "David_Popp@mcconnell.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "McConnell",
+   "First": "Robert",
+   "Last": "Steurer",
+   "Office": "202-224-828",
+   "Cell": "",
+   "Email": "Robert_Steurer@mcconnell.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "McConnell",
+   "First": "Stephanie",
+   "Last": "Penn",
+   "Office": "202-224-828",
+   "Cell": "",
+   "Email": "Stephanie_Penn@mcconnell.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Menendez",
+   "First": "Tricia",
+   "Last": "Enright",
+   "Office": "202-224-603",
+   "Cell": "202-380-612",
+   "Email": "patricia_enright@menendez.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Merkley",
+   "First": "Martina",
+   "Last": "McLennan",
+   "Office": "202-224-375",
+   "Cell": "",
+   "Email": "martina_mclennan@merkley.senate.gov",
+   "Title": "(DCD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Moran",
+   "First": "Tom",
+   "Last": "Brandt",
+   "Office": "202-224-652",
+   "Cell": "",
+   "Email": "Tom_Brandt@moran.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Murkowski",
+   "First": "Karina",
+   "Last": "Petersen",
+   "Office": "202-224-930",
+   "Cell": "",
+   "Email": "Karina_petersen@murkowski.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Murkowski",
+   "First": "Hannah",
+   "Last": "Ray",
+   "Office": "202-224-806",
+   "Cell": "",
+   "Email": "Hannah_Ray@murkowski.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Murphy",
+   "First": "Chris",
+   "Last": "Harris",
+   "Office": "202-228-105",
+   "Cell": "",
+   "Email": "Chris_Harris@murphy.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Murphy",
+   "First": "Laura",
+   "Last": "Maloney",
+   "Office": "202-228-105",
+   "Cell": "",
+   "Email": "Laura_Maloney@murphy.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Murray",
+   "First": "Eli",
+   "Last": "Zupnick",
+   "Office": "202-224-283",
+   "Cell": "",
+   "Email": "eli_zupnick@murray.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Nelson",
+   "First": "Ryan",
+   "Last": "Brown",
+   "Office": "202-224-167",
+   "Cell": "",
+   "Email": "Ryan_Brown@billnelson.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Nelson",
+   "First": "Jackie",
+   "Last": "McGuinness",
+   "Office": "202-224-167",
+   "Cell": "",
+   "Email": "jackie_mcguinness@billnelson.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Nelson",
+   "First": "Carlie",
+   "Last": "Waibel",
+   "Office": "202-224-167",
+   "Cell": "202-228-202",
+   "Email": "Carlie_Waibel@billnelson.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Paul",
+   "First": "Sergio",
+   "Last": "Gor",
+   "Office": "202-224-434",
+   "Cell": "",
+   "Email": "press@paul.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Perdue",
+   "First": "Megan",
+   "Last": "Whittemore",
+   "Office": "202-228-102",
+   "Cell": "",
+   "Email": "megan_whittemore@perdue.senate.gov",
+   "Title": "(DCOS/CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Perdue",
+   "First": "Caroline",
+   "Last": "Vanvick",
+   "Office": "202-224-659",
+   "Cell": "202-695-093",
+   "Email": "caroline_vanvick@perdue.senate.gov",
+   "Title": "(DCD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Perdue",
+   "First": "Lesley",
+   "Last": "Fulop",
+   "Office": "202-224-132",
+   "Cell": "202-236-274",
+   "Email": "lesley_fulop@perdue.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Peters",
+   "First": "Amber",
+   "Last": "Moon",
+   "Office": "202-224-622",
+   "Cell": "",
+   "Email": "amber_moon@peters.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Peters",
+   "First": "Allison",
+   "Last": "Green",
+   "Office": "202-224-622",
+   "Cell": "",
+   "Email": "Allison_Green@peters.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Portman",
+   "First": "Kevin",
+   "Last": "Smith",
+   "Office": "202-224-721",
+   "Cell": "",
+   "Email": "Kevin_Smith@portman.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Portman",
+   "First": "Emily",
+   "Last": "Benavides",
+   "Office": "202-224-708",
+   "Cell": "419-494-952",
+   "Email": "Emily_benavides@portman.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Reed",
+   "First": "Chip",
+   "Last": "Unruh",
+   "Office": "202-224-332",
+   "Cell": "202-228-284",
+   "Email": "chip_unruh@reed.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Risch",
+   "First": "Kaylin",
+   "Last": "Minton",
+   "Office": "202-224-807",
+   "Cell": "",
+   "Email": "Kaylin_Minton@risch.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Roberts",
+   "First": "Sarah",
+   "Last": "Little",
+   "Office": "202-224-477",
+   "Cell": "202-236-867",
+   "Email": "sarah_little@roberts.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Roberts",
+   "First": "Katherine",
+   "Last": "Knight",
+   "Office": "202-224-477",
+   "Cell": "202-957-897",
+   "Email": "Katherine_knight@roberts.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Rounds",
+   "First": "Natalie",
+   "Last": "Krings",
+   "Office": "202-224-584",
+   "Cell": "",
+   "Email": "Natalie_Krings@rounds.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Rounds",
+   "First": "Katie",
+   "Last": "Douglas",
+   "Office": "202-224-584",
+   "Cell": "",
+   "Email": "Katie_Douglas@rounds.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Rubio",
+   "First": "Olivia",
+   "Last": "Perez-Cubas",
+   "Office": "202-224-304",
+   "Cell": "",
+   "Email": "Olivia_PC@rubio.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Sanders",
+   "First": "Josh",
+   "Last": "Miller-Lewis",
+   "Office": "202-228-649",
+   "Cell": "202-465-5170",
+   "Email": "Josh_Miller-Lewis@sanders.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Sasse",
+   "First": "James",
+   "Last": "Wegmann",
+   "Office": "202-224-422",
+   "Cell": "202-768-280",
+   "Email": "James_Wegmann@sasse.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Schatz",
+   "First": "Michael",
+   "Last": "Inacay",
+   "Office": "202-224-393",
+   "Cell": "",
+   "Email": "Michael_Inacay@schatz.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Schumer",
+   "First": "Matt",
+   "Last": "House",
+   "Office": "202-224-293",
+   "Cell": "",
+   "Email": "matt_house@schumer.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Scott",
+   "First": "Sean",
+   "Last": "Smith",
+   "Office": "202-224-278",
+   "Cell": "",
+   "Email": "Sean_Smith@scott.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Scott",
+   "First": "Michele",
+   "Last": "Exner",
+   "Office": "202-224-612",
+   "Cell": "",
+   "Email": "Michele_Exner@scott.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Shaheen",
+   "First": "Ryan",
+   "Last": "Nickel",
+   "Office": "202-224-555",
+   "Cell": "",
+   "Email": "ryan_nickel@shaheen.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Shaheen",
+   "First": "Sarah",
+   "Last": "Weinstein",
+   "Office": "202-224-555",
+   "Cell": "",
+   "Email": "Sarah_Weinstein@shaheen.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Shelby",
+   "First": "Blair",
+   "Last": "Taylor",
+   "Office": "202-224-574",
+   "Cell": "",
+   "Email": "Blair_Taylor@shelby.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Smith",
+   "First": "Michael",
+   "Last": "Dale Stein",
+   "Office": "202-224-291",
+   "Cell": "",
+   "Email": "Michael_Dale-Stein@smith.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Stabenow",
+   "First": "Matt",
+   "Last": "Williams",
+   "Office": "517-203-1760",
+   "Cell": "202-360-501",
+   "Email": "matt_williams@stabenow.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Stabenow",
+   "First": "Miranda",
+   "Last": "Margowsky",
+   "Office": "202-224-143",
+   "Cell": "202-604-5630",
+   "Email": "Miranda_Margowsky@stabenow.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Sullivan",
+   "First": "Mike",
+   "Last": "Anderson",
+   "Office": "202-224-300",
+   "Cell": "",
+   "Email": "mike_anderson@sullivan.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Tester",
+   "First": "Marnee",
+   "Last": "Banks",
+   "Office": "202-228-037",
+   "Cell": "202-604-552",
+   "Email": "Marnee_Banks@tester.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Thune",
+   "First": "Ryan",
+   "Last": "Wrasse",
+   "Office": "202-224-232",
+   "Cell": "",
+   "Email": "Ryan_Wrasse@thune.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Tillis",
+   "First": "Daniel",
+   "Last": "Keylin",
+   "Office": "202-224-634",
+   "Cell": "",
+   "Email": "Daniel_Keylin@tillis.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Toomey",
+   "First": "Steve",
+   "Last": "Kelly",
+   "Office": "215-241-1090",
+   "Cell": "",
+   "Email": "Steve_Kelly@toomey.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Udall",
+   "First": "Jennifer",
+   "Last": "Talhelm",
+   "Office": "202-228-6870",
+   "Cell": "505-239-8950",
+   "Email": "news@tomudall.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Van Hollen",
+   "First": "Bridgett",
+   "Last": "Frey",
+   "Office": "202-224-465",
+   "Cell": "",
+   "Email": "Bridgett_Frey@vanhollen.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Van Hollen",
+   "First": "Francesca",
+   "Last": "Amodeo",
+   "Office": "202-228-067",
+   "Cell": "",
+   "Email": "Francesca_Amodeo@vanhollen.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Warner",
+   "First": "Rachel",
+   "Last": "Cohen",
+   "Office": "202-228-688",
+   "Cell": "202-306-327",
+   "Email": "Rachel_cohen@warner.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Warren",
+   "First": "Matt",
+   "Last": "Cournoyer",
+   "Office": "202-224-229",
+   "Cell": "",
+   "Email": "Matt_Cournoyer@warren.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Warren",
+   "First": "Alexis",
+   "Last": "Krieg",
+   "Office": "202-224-229",
+   "Cell": "",
+   "Email": "Alexis_Krieg@warren.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Warren",
+   "First": "Saloni",
+   "Last": "Sharma",
+   "Office": "202-224-229",
+   "Cell": "",
+   "Email": "Saloni_Sharma@warren.senate.gov",
+   "Title": "(DPS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Whitehouse",
+   "First": "Richard",
+   "Last": "Davidson",
+   "Office": "202-228-629",
+   "Cell": "",
+   "Email": "richard_davidson@whitehouse.senate.gov",
+   "Title": "(DCD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Wicker",
+   "First": "Ryan",
+   "Last": "Taylor",
+   "Office": "202-591-581",
+   "Cell": "",
+   "Email": "ryan_taylor@wicker.senate.gov",
+   "Title": "(CD)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Wicker",
+   "First": "Phillip",
+   "Last": "Waller",
+   "Office": "202-224-625",
+   "Cell": "",
+   "Email": "Phillip_Waller@wicker.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Wyden",
+   "First": "Keith",
+   "Last": "Chu",
+   "Office": "202-224-378",
+   "Cell": "",
+   "Email": "keith_chu@wyden.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Wyden",
+   "First": "Samantha",
+   "Last": "Offerdahl",
+   "Office": "202-224-378",
+   "Cell": "",
+   "Email": "Samantha_offerdahl@wyden.senate.gov",
+   "Title": "",
+   "FIELD8": ""
+ },
+ {
+   "Senator": "Young",
+   "First": "Joe",
+   "Last": "Gierut",
+   "Office": "202-224-562",
+   "Cell": "",
+   "Email": "Joe_Gierut@young.senate.gov",
+   "Title": "(PS)",
+   "FIELD8": ""
+ }]
