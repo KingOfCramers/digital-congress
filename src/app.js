@@ -13,6 +13,7 @@ import Help from "./components/Help";
 import Dashboard from "./components/Dashboard";
 import Contacts from "./components/Contacts";
 import FourOhFour from "./components/FourOhFour";
+import Footer from "./components/Footer";
 
 const routes = (
   <BrowserRouter>
@@ -24,8 +25,10 @@ const routes = (
         <Route path="/Edit" component={Edit} />
         <Route path="/Help" component={Help} />
         <Route path="/Contacts" component={Contacts}/>
+        <Route path="/login" />
         <Route component={FourOhFour} />
       </Switch>
+      <Footer />
     </div>
   </BrowserRouter>
 );
