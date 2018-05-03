@@ -1,0 +1,18 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Poppins, Arial, sans-serif;
+  font-size: $m-size;
+  background-color: $light-grey;
+}
+
+h1 {
+    font-weight: 500;
+    color: black;
+}
+
+p {
+    color: $dark-grey;
+}
