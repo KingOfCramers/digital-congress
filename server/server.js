@@ -12,8 +12,15 @@ const passport = require("passport");
 const keys = require("./config/keys.js"); // Get the mongoDB
 require("./models/User.js"); // Creates a Mongoose model class for user data.
 
-
 require("./services/passport.js"); // Adds our OAuth handling information.
+
+// Enable cookies inside our application.
+app.use(
+    cookieSession({
+        maxAge: 30 * 24 * 60 * 60 * 1000,
+        keys: [keys.cookieKey]
+    })
+);
 
 app.use(passport.initialize());
 app.use(passport.session());

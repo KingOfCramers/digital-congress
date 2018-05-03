@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "start": "node server/server.js",
+    "serve": "npm run build && npm run start",
     "build": "webpack",
     "dev-server": "webpack-dev-server"
   },
