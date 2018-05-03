@@ -5,7 +5,7 @@ export default class Footer extends React.Component {
     render(){
         return (
             <div>
-                <a href="/login">Login/Logout </a>
+                <a href="/oauth/google">Login/Logout </a>
 
                 <a href="">Contact Me</a>
             </div>
